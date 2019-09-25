@@ -8,7 +8,7 @@ info:
 host: unique-highway-252618.appspot.com
 x-google-endpoints:
 - name: 'unique-highway-252618.appspot.com'
-allowCors: 'true'
+  allowCors: 'true'
 basePath: /
 # 
 schemes:
